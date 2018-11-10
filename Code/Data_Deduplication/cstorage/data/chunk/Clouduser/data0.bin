@@ -1,0 +1,11 @@
+Secure Data Deduplication using SHA-3 and PSO on Cloud Storage System
+=========================================================================
+Implementation plan:
+----------------------------------
+Step 1: We create a cloud environment. 
+ 
+Step 2: next we implement user register for new users.
+ 
+Step 3: next implement user authentication .if valid user browse and give file 
+ 
+Step 4: file divided into chunk (chunk size is not user define value fixed),here Divisor selection algorithm

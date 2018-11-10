@@ -1,0 +1,27 @@
+ Internet Connection
+=====================
+
+   Required
+Software Requirements:-
+========================
+                  
+
+1)jdk-1.8
+2)netbeans-8.0
+5)ubuntu-14.04 LTS
+6) xampp
+
+
+Note:
+==========
+
+Do not delete any files or folders inside the project.
+
+copy the project folder Deduplication on your PC and Paste into home and after that open the project and goto this path
+
+/home/code/Deduplication/Code/Data_Deduplication/cstorage
+
+open the projec goto source package open upload.java got to line no 158 paste the file path there
+again open TFIDF.java gotto lin 44 and paste your location 
+open stopwordremoval.java and goto 524,555,573 paste the path there
+openopen frequenctcount goto 82 line and paste the path there

@@ -1,0 +1,7 @@
+ using Greatest Common Divisor (GCD) calculation 
+ 
+Step 5: Each chunk file apply pre-prcess for File Tokenization,Binary Conversion and Compute words weight(TF-IDF)
+ 
+Step 6: next implement Hash Computation for Decimal value using SHA-3.If hashes true duplicate file occur its not store else store the file into 	cloud storage
+
+Step 7:we can reduce the data access time and retrieval is made easier for the data enquired. The particle swarm optimization (PSO) algorithm decides whether a bl
